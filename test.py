@@ -15,6 +15,6 @@ class TestHuffman(unittest.TestCase):
 		decode("", "")
 		assert True
 
-
+#test main
 if __name__ == '__main__':
 	unittest.main()
